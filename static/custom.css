@@ -1,0 +1,13 @@
+.rightalign {
+    text-align: right;
+}
+.centeralign {
+    text-align: center;
+}
+th {
+    text-align: center;
+}
+.tech-poster img {
+    width: 50%;
+    min-width: min(400px, 90vw);
+}

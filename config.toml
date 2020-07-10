@@ -1,0 +1,21 @@
+baseURL = "https://jwod.garykim.dev/"
+languageCode = "en-us"
+title = "Josh's Word of the Day"
+theme = "hugo-theme-learn"
+copyright = "© 2020 PLACEHOLDER, All Rights Reserved"
+canonifyURLs = true
+
+[params]
+themeVariant = "blue"
+logo = "/img/logo.png"
+slogan = "A word a day keeps the confusion away"
+showVisitedLinks = false
+disableSearch = false
+ordersectionsby = "weight"
+disableShortcutsTitle=true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe = true
