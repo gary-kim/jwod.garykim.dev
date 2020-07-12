@@ -10,4 +10,4 @@ chapter: true
 
 #### More info
 
-In some areas, the shame word is also a slang word but it means **fuc*ed** instead.
+In some areas, the shame word is also a slang word but it means **f*cked** instead.
